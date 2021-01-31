@@ -3,8 +3,13 @@ body {
 	font-family:helvetica;
 	font-size:18px;
 	color:black;
+	
 }
 
 a {
 	color:deeppink;
+}
+
+a:hover {
+	color:blue;
 }
