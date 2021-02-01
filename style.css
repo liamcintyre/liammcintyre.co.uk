@@ -2,7 +2,8 @@
 body {
 	font-family:helvetica;
 	font-size:18px;
-	color:black;
+	color:black
+
 	
 }
 
@@ -12,4 +13,9 @@ a {
 
 a:hover {
 	color:blue;
+}
+
+@media (max-width:600px) {
+	font-size:36px;
+
 }
