@@ -17,7 +17,7 @@ a:hover {
 
 }
 
-@media (max-width: 420px) {
+@media (max-width: 600px) {
   body {
     font-size: 36px;
     
