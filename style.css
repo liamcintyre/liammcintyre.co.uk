@@ -4,7 +4,7 @@ body {
 	font-size:18px;
 	color:black
 
-	width: auto;
+	width: 600px;
 }
 
 a {
@@ -15,7 +15,12 @@ a:hover {
 	color:blue;
 }
 
-@media (max-width:600px) {
-	font-size:36px;
-
 }
+
+@media (max-width: 420px) {
+  body {
+    font-size: 36px;
+    
+  }
+}
+
