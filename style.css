@@ -6,12 +6,10 @@ body {
 }
 
 
-}
-
 a {
 	color: deeppink;
-
 }
+
 
 a:hover {
 	color: blue;
