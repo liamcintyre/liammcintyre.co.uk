@@ -5,13 +5,12 @@ body {
 	color:black;
 }
 
-h1 {
-	font-size:18px;
+
 }
 
 a {
 	color: deeppink;
-	font-size: 18px;
+
 }
 
 a:hover {
@@ -19,7 +18,7 @@ a:hover {
 }	
 
 @media (max-width:600px) {
-  h1, a {
+ body {
     font-size:36px;
   }
 }
